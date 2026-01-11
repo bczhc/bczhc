@@ -9,5 +9,3 @@
 
 ![](https://raw.githubusercontent.com/bczhc/bczhc/master/commits-scatter.svg)
 ![](https://raw.githubusercontent.com/bczhc/bczhc/master/commits-barchart.svg)
-
-The last two diagrams are generated with [Wolfram Engine](https://www.wolfram.com/engine), in GitHub Actions from [profile-updater](https://github.com/bczhc/profile-updater) repository.
